@@ -1,0 +1,37 @@
+Hithesh S 
++91 9148438219 | hithesh914@gmail.com | LinkedIn | GitHub | Portfolio  
+ 
+SUMMARY: 
+FullStack Developer and Machine Learning enthusiast dedicated to continuous learning and growth. 
+ 
+Skills
+Java| JPA| Hibernate| Project Management| JDBC| Scrum Master| Microservices| Agile| SOAP| Rest
+ 
+EXPERIENCE: 
+ 
+INTERN - CODSOFT | NOVEMBER (2023) 
+• Engineered a JavaScript calculator, captivating landing page, and polished portfolio site, exhibiting expertise in front-end technologies, mastery of UX/UI principles, and adept project management. 
+• Gained practical experience in web development methodologies, coding standards, and best practices. 
+• Demonstrated a strong commitment to quality assurance, testing, and debugging to deliver polished and error-free solutions. 
+ 
+PROJECTS: 
+ 
+[Link]The Higher Lower Game - Front End Development 
+Tech Stack:JavaScript 
+• Frontend development using JavaScript for creating interactive,intuitive and responsive user interfaces. 
+• Javascript objects are used to access the data instead of APIs 
+ 
+[Link]Weather Application Card - Front End Development 
+Tech Stack:JavaScript 
+• Frontend development using JavaScript 
+• Utilized a free API to develop a weather application, showcasing adeptness in API    integration and front-end development for a user-friendly experience. 
+ 
+Certifications: 
+ 
+• Certificate Course in FullStack Development from Udemy(2023) 
+• Certificate Course in Python from University of Michigan(Coursera-2023) 
+• Certificate Course in Java Programming from Ethnotech Academic Solutions(2023) 
+ 
+ 
+EDUCATION: 
+EAST WEST INSTITUTE OF TECHNOLOGY,Bangalore | Bachelor's in Computer Science |  CGPA (8.9) | Dec 2021 to Aug 2025 
